@@ -4,6 +4,7 @@ import {toggleMenu , openMenu} from '../utils/appSlice'
 import { useEffect, useState } from 'react';
 import { searchUrl } from '../utils/constants';
 import {addCache} from '../utils/cacheSlice'
+import { Link } from 'react-router-dom';
 
 const Header = () => {
   const dispatch = useDispatch();
@@ -64,7 +65,9 @@ const Header = () => {
       onBlur={()=>{setShowSearch(false)}}
       />
   
+      <a href='/results/123'>
       <button className=' rounded-full  pr-2'><svg className="feather feather-search" fill="none" height="24" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><circle cx="11" cy="11" r="8"/><line x1="21" x2="16.65" y1="21" y2="16.65"/></svg></button>
+      </a>
       
         <>
         <ul className={`box z-30 ${!showSearch && "hidden"}  shadow-md bg-white rounded-md fixed top-14 p-3 lg:w-[40rem]`}>
