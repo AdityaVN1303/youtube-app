@@ -8,7 +8,7 @@ const VideoCard = ({data}) => {
   const value = timeFunction(publishedAt);
 
   return (
-    <div className="card p-2 m-2 w-full  lg:w-96 h-[21.2rem]  rounded-lg">
+    <div className="card p-2 m-2 w-full my-4 lg:my-auto  lg:w-96 h-[21.2rem]  rounded-lg">
       <img className='rounded-lg w-full object-cover' src={thumbnails.medium.url} alt="thumbnail" /><ul>
         <li className='font-bold mt-2'>{title.slice(0 , 90)}{title.length>100 && '...'}</li>
         <li className='font-semibold mt-3 text-gray-500'>{channelTitle}</li>
