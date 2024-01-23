@@ -56,7 +56,7 @@ const Header = () => {
     <div className='header sticky top-0 bg-white shadow-sm flex justify-between items-center px-5 pb-3 my-2'>
       <div className="first flex min-h-12 items-center">
         <img src={toggleIcon} onClick={toggler} alt="toggler" className='h-10 mr-5 lg:hidden cursor-pointer' />
-        <img src={logo} alt="logo" className='h-6 hidden lg:block' />
+        <Link to='/'><img src={logo} alt="logo" className='h-6 hidden lg:block' /></Link>
       </div>
       <div className="vertical flex flex-col justify-center">
       <div className="flex justify-center rounded-full border-2">
@@ -65,16 +65,18 @@ const Header = () => {
       onBlur={()=>{setShowSearch(false)}}
       />
   
-      <a href='/results/123'>
-      <button className=' rounded-full  pr-2'><svg className="feather feather-search" fill="none" height="24" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><circle cx="11" cy="11" r="8"/><line x1="21" x2="16.65" y1="21" y2="16.65"/></svg></button>
-      </a>
+      <Link to={`/results/${searchQuery}`}>
+      <button className=' rounded-full  pr-2 mt-2'><svg className="feather feather-search" fill="none" height="24" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><circle cx="11" cy="11" r="8"/><line x1="21" x2="16.65" y1="21" y2="16.65"/></svg></button>
+      </Link>
       
         <>
         <ul className={`box z-30 ${!showSearch && "hidden"}  shadow-md bg-white rounded-md fixed top-14 p-3 lg:w-[40rem]`}>
         {
           searchResults.map((result)=>{
             return(
-              <li key={result} className='p-3 flex'><svg className="feather feather-search mr-3" fill="none" height="24" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><circle cx="11" cy="11" r="8"/><line x1="21" x2="16.65" y1="21" y2="16.65"/></svg> {result}</li>
+              <Link to={`/results/${result}`}>
+                <li key={result} className='p-3 flex'><svg className="feather feather-search mr-3" fill="none" height="24" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><circle cx="11" cy="11" r="8"/><line x1="21" x2="16.65" y1="21" y2="16.65"/></svg> {result}</li>
+              </Link>
             )
           })
         }

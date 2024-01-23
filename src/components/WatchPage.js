@@ -31,12 +31,12 @@ const WatchPage = () => {
     <>
     <div className='watch lg:flex'>
       <div className='w-full flex flex-col'>
-        <iframe height={560} width={315} className='w-full h-64 lg:h-auto lg:w-3/4 aspect-video rounded-md' src={`https://www.youtube.com/embed/${id}?si=WpfWK6xwD6gTHjz0?autoplay=1`} title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+        <iframe height={560} width={315} className='w-full h-64 lg:h-auto lg:w-5/6 aspect-video rounded-md' src={`https://www.youtube.com/embed/${id}?si=WpfWK6xwD6gTHjz0?autoplay=1`} title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
         
        {
        
         data && 
-        <div className='lg:w-3/4'>
+        <div className='lg:w-5/6'>
         <h1 className='text-xl font-bold my-2'>{data?.snippet?.title}</h1>
         <div className="larger lg:flex items-center justify-between space-x-7">
         <div className="side flex justify-start space-x-5 items-center">

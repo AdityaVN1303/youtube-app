@@ -99,6 +99,879 @@ const commentData = [
         text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
         replies : []
     },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : [
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : []
+                    },
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : [
+                            {
+                                name : "Aditya Nagare",
+                                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                                replies : [
+                                    {
+                                        name : "Aditya Nagare",
+                                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                                        replies : []
+                                    },
+                                ]
+                            },
+                        ]
+                    },
+                ]
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : [
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : []
+                    },
+                ]
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : [
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : []
+                    },
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : [
+                            {
+                                name : "Aditya Nagare",
+                                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                                replies : [
+                                    {
+                                        name : "Aditya Nagare",
+                                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                                        replies : []
+                                    },
+                                ]
+                            },
+                        ]
+                    },
+                ]
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : [
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : []
+                    },
+                ]
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : [
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : []
+                    },
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : [
+                            {
+                                name : "Aditya Nagare",
+                                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                                replies : [
+                                    {
+                                        name : "Aditya Nagare",
+                                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                                        replies : []
+                                    },
+                                ]
+                            },
+                        ]
+                    },
+                ]
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : [
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : []
+                    },
+                ]
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : [
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : []
+                    },
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : [
+                            {
+                                name : "Aditya Nagare",
+                                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                                replies : [
+                                    {
+                                        name : "Aditya Nagare",
+                                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                                        replies : []
+                                    },
+                                ]
+                            },
+                        ]
+                    },
+                ]
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : [
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : []
+                    },
+                ]
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : [
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : []
+                    },
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : [
+                            {
+                                name : "Aditya Nagare",
+                                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                                replies : [
+                                    {
+                                        name : "Aditya Nagare",
+                                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                                        replies : []
+                                    },
+                                ]
+                            },
+                        ]
+                    },
+                ]
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : [
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : []
+                    },
+                ]
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : [
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : []
+                    },
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : [
+                            {
+                                name : "Aditya Nagare",
+                                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                                replies : [
+                                    {
+                                        name : "Aditya Nagare",
+                                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                                        replies : []
+                                    },
+                                ]
+                            },
+                        ]
+                    },
+                ]
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : [
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : []
+                    },
+                ]
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : [
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : []
+                    },
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : [
+                            {
+                                name : "Aditya Nagare",
+                                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                                replies : [
+                                    {
+                                        name : "Aditya Nagare",
+                                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                                        replies : []
+                                    },
+                                ]
+                            },
+                        ]
+                    },
+                ]
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : [
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : []
+                    },
+                ]
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : [
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : []
+                    },
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : [
+                            {
+                                name : "Aditya Nagare",
+                                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                                replies : [
+                                    {
+                                        name : "Aditya Nagare",
+                                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                                        replies : []
+                                    },
+                                ]
+                            },
+                        ]
+                    },
+                ]
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : [
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : []
+                    },
+                ]
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+     {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : [
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : []
+                    },
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : [
+                            {
+                                name : "Aditya Nagare",
+                                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                                replies : [
+                                    {
+                                        name : "Aditya Nagare",
+                                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                                        replies : []
+                                    },
+                                ]
+                            },
+                        ]
+                    },
+                ]
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : [
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : []
+            },
+            {
+                name : "Aditya Nagare",
+                text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                replies : [
+                    {
+                        name : "Aditya Nagare",
+                        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+                        replies : []
+                    },
+                ]
+            },
+        ]
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
+    {
+        name : "Aditya Nagare",
+        text : "Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        replies : []
+    },
 ]
 
 
@@ -121,8 +994,8 @@ const CommentList = ({comments}) => {
       {
        comments.map((commentVal , index)=>{
         return (
-            <div>
-        <Comment comment={commentVal} key={index}/>
+            <div  key={index}>
+        <Comment comment={commentVal}/>
         <div className='pl-5 border-l-red-950 ml-5 border-l-2 rounded-md'>
             <CommentList comments={commentVal.replies}/>
         </div>
